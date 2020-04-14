@@ -1,0 +1,15 @@
+{
+	"name": "wedding-api",
+	"version": "1.0.0",
+	"main": "app.js",
+	"scripts": {
+		"start": "nodemon server.js"
+	},
+	"author": "Franky Nicoletta",
+	"license": "MIT",
+	"dependencies": {
+		"dotenv": "^8.2.0",
+		"express": "^4.17.1",
+		"morgan": "^1.10.0"
+	}
+}
